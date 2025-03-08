@@ -1,7 +1,7 @@
 [![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=ubuntu&weight=800&size=22&pause=1000&random=false&width=435&lines=Abdelkarim+Anouer)](https://git.io/typing-svg)
 
 <h1 align="center">👋 Hi there! Welcome to My GitHub Profile!</h1>
-<h3 align="center">Backend & Desktop Developer | .NET & C# Enthusiast | SQL Server Specialist</h3>
+<h3 align="center">Backend & Desktop Developer | .NET Framework & SQL Server Specialist</h3>
 
 ---
 
@@ -13,51 +13,48 @@
 
 ## 🏆 About Me
 
-As a **backend and desktop application developer**, I specialize in building **efficient, scalable**, and **high-performance** applications using **C#**, **.NET Framework**, and **SQL Server**. My main focus is optimizing database performance and implementing robust backend solutions.
+I’m a **Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Server, and T-SQL**, with a focus on building **efficient, scalable solutions** and optimizing **database performance**.
 
 🔹 **Core Values**: Problem-solving, clean code, and efficiency  
-🔹 **Passionate About**: Database optimization, software architecture, and structured development  
-🔹 **Learning Journey**: Completed multiple programming courses, covering **C++**, **C#**, **OOP**, **.NET Framework**, and **Database Management**.
+🔹 **Passionate About**: Backend development, database optimization, and scalable architecture  
+🔹 **Learning Journey**: Completed **21 programming courses** covering **Problem Solving, Algorithms, Data Structures, C++, C#, OOP, .NET Framework, and Database Management**.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,visualstudio,github,git,sqlserver&theme=dark" alt="Tech Stack Icons">
 </p>
 
-- **Languages**: C#, C++  
-- **Frameworks**: .NET Framework, WinForms, ADO.NET, LINQ  
-- **Tools**: Visual Studio, Git, GitHub  
-- **Databases**: SQL Server, T-SQL, Database Design  
-- **Specialties**:  
-  - Backend development with C# and .NET  
-  - Database design and optimization  
-  - Building structured and scalable applications  
-  - Debugging and problem-solving
+- **Programming Languages**: C#, C++  
+- **Frameworks & Technologies**: .NET Framework, WinForms, ADO.NET, LINQ  
+- **Database Management**: SQL Server, T-SQL, Database Design  
+- **Version Control**: Git, GitHub  
+- **Data Handling & Practices**: Data Structures, Algorithms  
+- **Soft Skills**: Problem-Solving, Communication, Teamwork, Attention to Detail, Time Management
 
 ---
 
 ## 🌟 Projects
 
 - **Driving & Vehicle License Department (DVLD)**  
-  - A desktop app for managing driving licenses and vehicle registrations.  
+  - A desktop application designed to manage driving licenses and vehicle registrations efficiently.  
   - **Tech Stack**: .NET Framework (C#), WinForms, SQL Server, ADO.NET, 3-Tier Architecture.  
   - **[GitHub Repository](https://github.com/abdelkarimanouer/Driving-License)**
 
 - **Bank Management System**  
-  - A system for handling financial transactions, user management, and reports.  
+  - A system for managing clients, financial transactions, and user permissions with full security control.  
   - **Tech Stack**: .NET Framework (C#), WinForms, SQL Server, ADO.NET, 3-Tier Architecture.  
   - **[GitHub Repository](https://github.com/abdelkarimanouer/Bank-Management-System)**
 
 - **Rooh Wa Rayhan**  
-  - A tool for daily worship, including prayer times, dhikr, tasbeeh, and Quran listening.  
+  - A simple and interactive tool that assists users with daily worship, such as prayer times, dhikr, tasbeeh, and Quran listening.  
   - **Tech Stack**: .NET Framework (C#), WinForms.  
   - **[GitHub Repository](https://github.com/abdelkarimanouer/Rooh_Wa_Rayhan)**
 
 - **Math Game**  
-  - An educational game to solve math problems with different difficulty levels.  
+  - An educational and fun game that helps users practice math with different difficulty levels.  
   - **Tech Stack**: .NET Framework (C#), WinForms.  
   - **[GitHub Repository](https://github.com/abdelkarimanouer/Math-Game-Project)**
 
