@@ -36,7 +36,7 @@ I’m a **Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Ser
 
 ---
 
-## 🌟 Projects
+## 🌟Top Projects
 
 - **Driving & Vehicle License Department (DVLD)**  
   - A desktop application designed to manage driving licenses and vehicle registrations efficiently.  
@@ -47,17 +47,15 @@ I’m a **Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Ser
   - A system for managing clients, financial transactions, and user permissions with full security control.  
   - **Tech Stack**: .NET Framework (C#), WinForms, SQL Server, ADO.NET, 3-Tier Architecture.  
   - **[GitHub Repository](https://github.com/abdelkarimanouer/Bank-Management-System)**
+   
+---
 
-- **Rooh Wa Rayhan**  
-  - A simple and interactive tool that assists users with daily worship, such as prayer times, dhikr, tasbeeh, and Quran listening.  
-  - **Tech Stack**: .NET Framework (C#), WinForms.  
-  - **[GitHub Repository](https://github.com/abdelkarimanouer/Rooh_Wa_Rayhan)**
-
-- **Math Game**  
-  - An educational and fun game that helps users practice math with different difficulty levels.  
-  - **Tech Stack**: .NET Framework (C#), WinForms.  
-  - **[GitHub Repository](https://github.com/abdelkarimanouer/Math-Game-Project)**
-
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelkarimanouer&theme=tokyonight&fire=DD2727&ring=FFD700" alt="GitHub Streak Stats">  
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelkarimanouer&layout=compact&theme=dracula&langs_count=6" alt="Top Languages">
+</p>  
 ---
 
 ## 🌐 Let's Connect
