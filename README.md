@@ -60,14 +60,6 @@ I’m a **Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Ser
 
 ---
 
-## 🎓 Education
-
-- **High School - Physical Sciences**  
-  - Sed Bin El-Ouidane - Morocco  
-  - Baccalaureate Level 2021/2022
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
