@@ -52,8 +52,6 @@ I’m a **Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Ser
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelkarimanouer&theme=tokyonight&fire=DD2727&ring=FFD700" alt="GitHub Streak Stats">  
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelkarimanouer&layout=compact&theme=dracula&langs_count=6" alt="Top Languages">
 </p>  
 ---
