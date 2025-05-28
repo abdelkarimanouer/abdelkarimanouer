@@ -24,7 +24,7 @@ I’m a **Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Ser
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,visualstudio,github,git,sqlserver&theme=dark" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,visualstudio,github,git,sqlserver,windows,linux&theme=dark" alt="Tech Stack Icons">
 </p>
 
 - **Programming Languages**: C#, C++, C
