@@ -24,7 +24,7 @@ I’m a **Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Ser
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,visualstudio,github,git,sqlserver,windows,linux&theme=dark" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,visualstudio,vscode,vim,github,git,sqlserver,windows,linux&theme=dark" alt="Tech Stack Icons">
 </p>
 
 - **Programming Languages**: C#, C++, C
@@ -53,7 +53,7 @@ I’m a **Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Ser
 ## 📊 GitHub Stats  
 <p align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkarimanouer&layout=compact&theme=dracula&langs_count=6" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkarimanouer&layout=compact&theme=dracula&langs_count=10" alt="Top Languages">
 </p>  
 
 ---
