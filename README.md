@@ -53,7 +53,7 @@ I’m a **Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Ser
 ## 📊 GitHub Stats  
 <p align="center">
   <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkarimanouer&layout=compact&theme=dracula&langs_count=10" alt="Top Languages">
 </p>  
 
 ---
