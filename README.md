@@ -1,19 +1,19 @@
 [![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=ubuntu&weight=800&size=22&pause=1000&random=false&width=435&lines=Abdelkarim+Anouer)](https://git.io/typing-svg)
 
 <h1 align="center">👋 Hi there! Welcome to My GitHub Profile!</h1>
-<h3 align="center">Backend & Desktop Developer | .NET Framework & SQL Server Specialist</h3>
+<h3 align="center"> Student at 1337 Coding School | Backend & Desktop Developer | .NET Framework & SQL Server Specialist</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=24&duration=4000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Backend+Developer;Desktop+App+Specialist;C%23+and+.NET+Expert;SQL+Server+Specialist;Problem-Solver+%F0%9F%A4%94" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=24&duration=4000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Student+at+1337+Coding+School;Backend+Developer;Desktop+App+Specialist;C%23+and+.NET+Expert;SQL+Server+Specialist;Problem-Solver+%F0%9F%A4%94" alt="Typing Animation">
 </p>
 
 ---
 
 ## 🏆 About Me
 
-I’m a **Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Server, and T-SQL**, with a focus on building **efficient, scalable solutions** and optimizing **database performance**.
+I’m a ** Student at 1337 Coding School & Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Server, and T-SQL**, with a focus on building **efficient, scalable solutions** and optimizing **database performance**.
 
 🔹 **Core Values**: Problem-solving, clean code, and efficiency  
 🔹 **Passionate About**: Backend development, database optimization, and scalable architecture  
