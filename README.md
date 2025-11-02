@@ -50,73 +50,79 @@ I’m a ** Student at 1337 Coding School & Backend & Desktop Developer** skilled
    
 ---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkarimanouer&layout=compact&theme=dracula&langs_count=10" alt="Top Languages">
+</p>
+
+---
+
 ## 🏆 Achievements & Learning Journey
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎖️ 1337 School Piscine
-**Status:** ✅ Completed (July 2025)
+<h3>🎖️ 1337 School Piscine</h3>
+<p><b>Status:</b> ✅ Completed (July 2025)</p>
+<p>Intensive 4-week coding bootcamp focused on C programming and problem-solving.</p>
 
-Intensive 4-week coding bootcamp focused on C programming and problem-solving.
-
-**Skills Gained:**
-- C Programming
-- Shell Scripting
-- Unix/Linux Systems
-- Git Workflows
-- Peer Learning
+<b>Skills Gained:</b>
+<ul>
+  <li>C Programming</li>
+  <li>Shell Scripting</li>
+  <li>Unix/Linux Systems</li>
+  <li>Git Workflows</li>
+  <li>Peer Learning</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-### 📜 Programming Advices
-**Status:** ✅ 22/23 Courses Completed | 🔄 4 In Progress
-
-Comprehensive 23-course program covering full software development lifecycle from fundamentals to advanced backend systems.
+<h3>📜 Programming Advices</h3>
+<p><b>Status:</b> ✅ 22/23 Courses Completed | 🔄 4 In Progress</p>
+<p>Comprehensive 23-course program covering full software development lifecycle from fundamentals to advanced backend systems.</p>
 
 <details>
-<summary><b>📚 Course Track (Click to expand)</b></summary>
+  <summary><b>📚 Course Track (Click to expand)</b></summary>
+  <p><b>Phase 1: Programming Foundations (Courses 1–13)</b></p>
+  <ul>
+    <li>Problem-Solving & Algorithms</li>
+    <li>C++ Programming Fundamentals</li>
+    <li>Data Structures & Algorithms</li>
+    <li>OOP Principles</li>
+    <li>Console Applications (Bank System, File Handling)</li>
+  </ul>
 
-**Phase 1: Programming Foundations (Courses 1-13)**
-- Problem-Solving & Algorithms
-- C++ Programming Fundamentals
-- Data Structures & Algorithms
-- OOP Principles
-- Console Applications (Bank System, File Handling)
+  <p><b>Phase 2: Desktop Development (Courses 14–19)</b> ✅</p>
+  <ul>
+    <li>C# Programming</li>
+    <li>OOP with C#</li>
+    <li>SQL Server & SSMS</li>
+    <li>Database Design & Normalization</li>
+    <li>ADO.NET (Connected & Disconnected)</li>
+    <li>WinForms Development</li>
+    <li>Multi-tier Architecture</li>
+  </ul>
 
-**Phase 2: Desktop Development (Courses 14-19)** ✅
-- C# Programming
-- OOP with C#
-- SQL Server & SSMS
-- Database Design & Normalization
-- ADO.NET (Connected & Disconnected)
-- WinForms Development
-- Multi-tier Architecture
-
-**Phase 3: Advanced Backend (Courses 20-23)** 🔄
-- C# Level 2 (Advanced Features) - 🔄 In Progress
-- T-SQL Advanced - 🔄 In Progress
-- Data Structures Level 2 - 📋 Next
-- Intro to REST APIs - 📋 Next
-
+  <p><b>Phase 3: Advanced Backend (Courses 20–23)</b> 🔄</p>
+  <ul>
+    <li>C# Level 2 (Advanced Features) - 🔄 In Progress</li>
+    <li>T-SQL Advanced - 🔄 In Progress</li>
+    <li>Data Structures Level 2 - 📋 Next</li>
+    <li>Intro to REST APIs - 📋 Next</li>
+  </ul>
 </details>
 
-**Completed:** Foundations + Desktop Development  
-**Current:** Advanced C# & T-SQL  
-**Next:** REST APIs & Advanced DSA
+<p><b>Completed:</b> Foundations + Desktop Development</p>
+<p><b>Current:</b> Advanced C# & T-SQL</p>
+<p><b>Next:</b> REST APIs & Advanced DSA</p>
 
 </td>
 </tr>
+</table>
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkarimanouer&layout=compact&theme=dracula&langs_count=10" alt="Top Languages">
-</p>
 
 ---
 
