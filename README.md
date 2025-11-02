@@ -58,6 +58,68 @@ I’m a ** Student at 1337 Coding School & Backend & Desktop Developer** skilled
 
 ---
 
+## 🏆 Achievements & Learning Journey
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎖️ 1337 School Piscine
+**Status:** ✅ Completed (July 2025)
+
+Intensive 4-week coding bootcamp focused on C programming and problem-solving.
+
+**Skills Gained:**
+- C Programming
+- Shell Scripting
+- Unix/Linux Systems
+- Git Workflows
+- Peer Learning
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Programming Advices
+**Status:** ✅ 19/23 Courses Completed | 🔄 4 In Progress
+
+Comprehensive 23-course program covering full software development lifecycle from fundamentals to advanced backend systems.
+
+<details>
+<summary><b>📚 Course Track (Click to expand)</b></summary>
+
+**Phase 1: Programming Foundations (Courses 1-13)**
+- Problem-Solving & Algorithms
+- C++ Programming Fundamentals
+- Data Structures & Algorithms
+- OOP Principles
+- Console Applications (Bank System, File Handling)
+
+**Phase 2: Desktop Development (Courses 14-19)** ✅
+- C# Programming
+- OOP with C#
+- SQL Server & SSMS
+- Database Design & Normalization
+- ADO.NET (Connected & Disconnected)
+- WinForms Development
+- Multi-tier Architecture
+
+**Phase 3: Advanced Backend (Courses 20-23)** 🔄
+- C# Level 2 (Advanced Features) - 🔄 In Progress
+- T-SQL Advanced - 🔄 In Progress
+- Data Structures Level 2 - 📋 Next
+- Intro to REST APIs - 📋 Next
+
+</details>
+
+**Completed:** Foundations + Desktop Development  
+**Current:** Advanced C# & T-SQL  
+**Next:** REST APIs & Advanced DSA
+
+</td>
+</tr>
+
+---
+
 ## 🌐 Let's Connect
 
 <p align="center">
