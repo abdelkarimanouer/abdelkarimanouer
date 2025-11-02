@@ -80,7 +80,7 @@ Intensive 4-week coding bootcamp focused on C programming and problem-solving.
 <td width="50%" valign="top">
 
 ### 📜 Programming Advices
-**Status:** ✅ 19/23 Courses Completed | 🔄 4 In Progress
+**Status:** ✅ 22/23 Courses Completed | 🔄 4 In Progress
 
 Comprehensive 23-course program covering full software development lifecycle from fundamentals to advanced backend systems.
 
