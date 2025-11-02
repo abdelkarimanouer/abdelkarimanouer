@@ -50,14 +50,6 @@ I’m a ** Student at 1337 Coding School & Backend & Desktop Developer** skilled
    
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkarimanouer&layout=compact&theme=dracula&langs_count=10" alt="Top Languages">
-</p>  
-
----
-
 ## 🏆 Achievements & Learning Journey
 
 <table>
@@ -117,6 +109,14 @@ Comprehensive 23-course program covering full software development lifecycle fro
 
 </td>
 </tr>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkarimanouer&layout=compact&theme=dracula&langs_count=10" alt="Top Languages">
+</p>
 
 ---
 
