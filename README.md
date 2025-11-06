@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi there! Welcome to My GitHub Profile!</h1>
 <h3 align="center"> Student at 1337 Coding School | Backend & Desktop Developer | .NET Framework & SQL Server Specialist</h3>
 
----
+---.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=24&duration=4000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Student+at+1337+Coding+School;Backend+Developer;Desktop+App+Specialist;C%23+and+.NET+Expert;SQL+Server+Specialist;Problem-Solver+%F0%9F%A4%94" alt="Typing Animation">
