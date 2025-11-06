@@ -13,7 +13,7 @@
 
 ## 🏆 About Me
 
-I’m a ** Student at 1337 Coding School & Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Server, and T-SQL**, with a focus on building **efficient, scalable solutions** and optimizing **database performance**.
+I’m a **Student at 1337 Coding School & Backend & Desktop Developer** skilled in **.NET Framework, C#, SQL Server, and T-SQL**, with a focus on building **efficient, scalable solutions** and optimizing **database performance**.
 
 🔹 **Core Values**: Problem-solving, clean code, and efficiency  
 🔹 **Passionate About**: Backend development, database optimization, and scalable architecture  
