@@ -17,7 +17,7 @@ I’m a **Student at 1337 Coding School & Backend & Desktop Developer** skilled 
 
 🔹 **Core Values**: Problem-solving, clean code, and efficiency  
 🔹 **Passionate About**: Backend development, database optimization, and scalable architecture  
-🔹 **Learning Journey**: Completed **21 programming courses** covering **Problem Solving, Algorithms, Data Structures, C++, C#, OOP, .NET Framework, and Database Management**.
+🔹 **Learning Journey**: Student At 1337 Coding School ,Completed **21 programming courses** covering **Problem Solving, Algorithms, Data Structures, C++, C#, OOP, .NET Framework, and Database Management**.
 
 ---
 
@@ -27,7 +27,7 @@ I’m a **Student at 1337 Coding School & Backend & Desktop Developer** skilled 
   <img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,python,visualstudio,vscode,vim,github,git,sqlserver,windows,linux&theme=dark" alt="Tech Stack Icons">
 </p>
 
-- **Programming Languages**: C#, C++, C
+- **Programming Languages**: C#, C++, C, Python
 - **Frameworks & Technologies**: .NET Framework, WinForms, ADO.NET, LINQ  
 - **Database Management**: SQL Server, T-SQL, Database Design  
 - **Version Control**: Git, GitHub  
