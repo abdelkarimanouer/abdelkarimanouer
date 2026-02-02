@@ -25,7 +25,6 @@ I’m a **Student at 1337 Coding School & Backend & Desktop Developer** skilled 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,python,visualstudio,vscode,vim,github,git,windows,linux&theme=dark" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="48"/>
 </p>
 
 
