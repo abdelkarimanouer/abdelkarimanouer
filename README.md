@@ -24,7 +24,7 @@ I’m a **Student at 1337 Coding School & Backend & Desktop Developer** skilled 
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,python,MSSQL,visualstudio,vscode,vim,github,git,sqlserver,windows,linux&theme=dark" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,python,SQL,visualstudio,vscode,vim,github,git,sqlserver,windows,linux&theme=dark" alt="Tech Stack Icons">
 </p>
 
 - **Programming Languages**: C#, C++, C, Python
