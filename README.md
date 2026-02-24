@@ -54,7 +54,7 @@ I’m a **Student at 1337 Coding School & Backend & Desktop Developer** skilled 
 ## 📊 GitHub Stats  
 <p align="center">
   <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkarimanouer&layout=compact&theme=dracula&langs_count=10" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelkarimanouer&theme=dracula" />
 </p>
 
 ---
