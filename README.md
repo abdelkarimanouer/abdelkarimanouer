@@ -1,3 +1,7 @@
+https://badge.mediaplus.ma/binary/aanouer
+[![aanouer's 42 stats](https://badge.mediaplus.ma/binary/aanouer)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aanouer" alt="aanouer's 42 stats" /></a>
+
 [![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=ubuntu&weight=800&size=22&pause=1000&random=false&width=435&lines=Abdelkarim+Anouer)](https://git.io/typing-svg)
 
 <h1 align="center">👋 Hi there! Welcome to My GitHub Profile!</h1>
