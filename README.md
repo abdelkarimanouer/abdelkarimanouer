@@ -1,4 +1,6 @@
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aanouer" alt="aanouer's 42 stats" /></a>
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aanouer" alt="aanouer's 42 stats" /></a>
+</p>
 
 [![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=ubuntu&weight=800&size=22&pause=1000&random=false&width=435&lines=Abdelkarim+Anouer)](https://git.io/typing-svg)
 
